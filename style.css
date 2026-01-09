@@ -209,4 +209,26 @@ body {
   background: #256428;
   transform: translateY(-2px);
 }
+.footer {
+  background: #0b1d2e;
+  padding: 20px 40px;
+}
+
+.footer-content {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+
+.footer-logo {
+  position: absolute;
+  left: 0; 
+  width: 40px;
+}
+
+.footer-text {
+  color: #fff;
+  font-size: 13px;
+}
 
